@@ -8,4 +8,4 @@ Department : 소프트웨어학부
 
 
 ## Table of Contents
-1. [Assignment 1]()
+1. [Assignment 1](https://github.com/bbx8216/ML-Assignments/tree/main/01)
