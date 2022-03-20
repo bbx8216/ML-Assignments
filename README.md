@@ -9,3 +9,5 @@ Department : 소프트웨어학부
 
 ## Table of Contents
 1. [Assignment 1](https://github.com/bbx8216/ML-Assignments/tree/main/01)
+2. [Assignment 2]()
+3. [Assignment 3]()
